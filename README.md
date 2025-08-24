@@ -2,6 +2,8 @@
 
 A powerful web scraping application that uses Google Gemini AI to analyze and answer questions about website content.
 
+Live demo - https://aitool-web-scraper.streamlit.app/
+
 ## Features
 
 - 🌐 Web scraping with BeautifulSoup
